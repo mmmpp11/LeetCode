@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="" />
+    <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ExerciseKotlin297.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ucbZYu8GkVm4mtQfIZYzjRBLZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,7 +75,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624967880401</updated>
-      <workItem from="1624967883871" duration="5954000" />
+      <workItem from="1624967883871" duration="7320000" />
+      <workItem from="1625058494578" duration="5517000" />
     </task>
     <servers />
   </component>
@@ -80,29 +88,33 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1624969191925" />
-    <state width="1576" height="292" key="GridCell.Tab.0.bottom" timestamp="1624974543807">
+    <state width="1576" height="292" key="GridCell.Tab.0.bottom" timestamp="1624979630483">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1624974543807" />
-    <state width="1576" height="292" key="GridCell.Tab.0.center" timestamp="1624974543806">
+    <state width="1576" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1624979630483" />
+    <state width="1576" height="292" key="GridCell.Tab.0.center" timestamp="1624979630483">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1624974543806" />
-    <state width="1576" height="292" key="GridCell.Tab.0.left" timestamp="1624974543806">
+    <state width="1576" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1624979630483" />
+    <state width="1576" height="292" key="GridCell.Tab.0.left" timestamp="1624979630483">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1624974543806" />
-    <state width="1576" height="292" key="GridCell.Tab.0.right" timestamp="1624974543807">
+    <state width="1576" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1624979630483" />
+    <state width="1576" height="292" key="GridCell.Tab.0.right" timestamp="1624979630483">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1624974543807" />
+    <state width="1576" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1624979630483" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1625059812819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1625059812819" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/ExerciseKotlin168.kt</url>
-          <line>24</line>
+          <line>27</line>
           <properties method="main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -110,7 +122,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/ExerciseKotlin168.kt</url>
-          <line>25</line>
+          <line>28</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
