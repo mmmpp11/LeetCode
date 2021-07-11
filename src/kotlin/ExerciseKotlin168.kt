@@ -1,3 +1,5 @@
+package kotlin
+
 import java.lang.StringBuilder
 
 
@@ -25,6 +27,3 @@ class ExerciseKotlin168 {
 
 }
 
-fun main() {
-    println(ExerciseKotlin168().convertToTitle(701))
-}

@@ -1,3 +1,5 @@
+package kotlin
+
 /**
  * 645. 错误的集合
  */
@@ -10,7 +12,7 @@ class ExerciseKotlin645 {
         for (i in 1..nums.size){
             sum += i
         }
-        val map = mutableMapOf<Int,Int>()
+        val map = mutableMapOf<Int, Int>()
         for (i in 0..nums.size-1){
             map[nums[i]] = map.getOrDefault(nums[i],0) + 1
         }
@@ -26,5 +28,5 @@ class ExerciseKotlin645 {
 }
 
 fun main() {
-    println(ExerciseKotlin645().findErrorNums(intArrayOf(3,2,2)))
+    println(ExerciseKotlin645().findErrorNums(intArrayOf(3, 2, 2)))
 }

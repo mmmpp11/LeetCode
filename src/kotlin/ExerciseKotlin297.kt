@@ -1,3 +1,5 @@
+package kotlin
+
 import java.lang.StringBuilder
 import java.util.*
 
@@ -13,7 +15,7 @@ class ExerciseKotlin297 {
         var right: TreeNode? = null
     }
 
-    fun serialize(root: TreeNode?): String{
+    fun serialize(root: TreeNode?): String {
         if (root == null){
             return "null"
         }
