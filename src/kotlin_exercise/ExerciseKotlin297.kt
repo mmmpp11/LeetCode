@@ -1,4 +1,4 @@
-package kotlin
+package kotlin_exercise
 
 import java.lang.StringBuilder
 import java.util.*
@@ -53,3 +53,4 @@ class ExerciseKotlin297 {
 
 
 }
+

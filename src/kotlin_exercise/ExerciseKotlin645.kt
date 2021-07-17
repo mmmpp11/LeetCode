@@ -1,4 +1,4 @@
-package kotlin
+package kotlin_exercise
 
 /**
  * 645. 错误的集合
@@ -28,5 +28,12 @@ class ExerciseKotlin645 {
 }
 
 fun main() {
-    println(ExerciseKotlin645().findErrorNums(intArrayOf(3, 2, 2)))
+    println(
+        ExerciseKotlin645().findErrorNums(
+            intArrayOf(
+                3,
+                2,
+                2
+            )
+        ))
 }

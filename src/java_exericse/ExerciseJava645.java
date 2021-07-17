@@ -1,4 +1,4 @@
-package java;
+package java_exericse;
 
 import java.util.HashMap;
 import java.util.Map;

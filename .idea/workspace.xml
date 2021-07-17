@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="645. 错误的集合">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/Exercise274.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kotlin/Exercise274.kt" afterDir="false" />
+    <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java_exericse/Exercise1818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exericse/Exercise53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_exercise/Exercise1818.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_exercise/Exercise53.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseJava168.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ExerciseJava168.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseJava645.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ExerciseJava645.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseKotlin168.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin/ExerciseKotlin168.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseKotlin297.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin/ExerciseKotlin297.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExerciseKotlin645.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin/ExerciseKotlin645.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ExerciseJava168.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ExerciseKotlin168.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ExerciseKotlin168Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/Exercise274.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_exericse/Exercise274.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/ExerciseJava168.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_exericse/ExerciseJava168.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/ExerciseJava645.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_exericse/ExerciseJava645.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlin/Exercise274.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_exercise/Exercise274.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlin/ExerciseKotlin168.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin168.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlin/ExerciseKotlin297.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin297.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlin/ExerciseKotlin645.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin645.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +60,33 @@
       <recent name="F:\study\LeetCode\src\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlin.ExerciseKotlin645Kt">
+  <component name="RunManager" selected="Application.Exercise1818 (1)">
+    <configuration name="Exercise1818 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_exericse.Exercise1818" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_exericse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.Exercise1818" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExerciseJava168" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java.ExerciseJava168" />
       <module name="LeetCode" />
@@ -90,6 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise1818 (1)" />
+        <item itemvalue="Application.Exercise1818" />
         <item itemvalue="Kotlin.kotlin.ExerciseKotlin645Kt" />
         <item itemvalue="Application.ExerciseJava168" />
         <item itemvalue="Kotlin.kotlin.ExerciseKotlin168Kt" />
@@ -110,7 +144,10 @@
       <workItem from="1625058494578" duration="5675000" />
       <workItem from="1625391012651" duration="4608000" />
       <workItem from="1626008586614" duration="3411000" />
-      <workItem from="1626014214163" duration="218000" />
+      <workItem from="1626014214163" duration="903000" />
+      <workItem from="1626269752363" duration="2081000" />
+      <workItem from="1626360787196" duration="2125000" />
+      <workItem from="1626527719193" duration="2026000" />
     </task>
     <task id="LOCAL-00001" summary="297. 二叉树的序列化与反序列化">
       <created>1625064870033</created>
@@ -126,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625399755480</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="274. H 指数">
+      <created>1626014504668</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626014504668</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +192,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="297. 二叉树的序列化与反序列化" />
     <MESSAGE value="645. 错误的集合" />
-    <option name="LAST_COMMIT_MESSAGE" value="645. 错误的集合" />
+    <MESSAGE value="274. H 指数" />
+    <option name="LAST_COMMIT_MESSAGE" value="274. H 指数" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Project_Structure" timestamp="1624969191925">
@@ -163,26 +208,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="838" y="312" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626009505820" />
-    <state x="732" y="267" key="CommitChangelistDialog2" timestamp="1626014481620">
+    <state x="732" y="267" key="CommitChangelistDialog2" timestamp="1626014502499">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="267" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1626014481620" />
-    <state width="1576" height="292" key="GridCell.Tab.0.bottom" timestamp="1625405973403">
+    <state x="732" y="267" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1626014502499" />
+    <state width="1433" height="295" key="GridCell.Tab.0.bottom" timestamp="1626363799139">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1625405973403" />
-    <state width="1576" height="292" key="GridCell.Tab.0.center" timestamp="1625405973403">
+    <state width="1433" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1626363799139" />
+    <state width="1433" height="295" key="GridCell.Tab.0.center" timestamp="1626363799139">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1625405973403" />
-    <state width="1576" height="292" key="GridCell.Tab.0.left" timestamp="1625405973403">
+    <state width="1433" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1626363799139" />
+    <state width="1433" height="295" key="GridCell.Tab.0.left" timestamp="1626363799139">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1625405973403" />
-    <state width="1576" height="292" key="GridCell.Tab.0.right" timestamp="1625405973403">
+    <state width="1433" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1626363799139" />
+    <state width="1433" height="295" key="GridCell.Tab.0.right" timestamp="1626363799139">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1625405973403" />
+    <state width="1433" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1626363799139" />
     <state width="1877" height="357" key="GridCell.Tab.1.bottom" timestamp="1625405973389">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -199,53 +244,53 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="357" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1625405973389" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1626014420349">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1626535398831">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1626014420349" />
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1626014214311">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1626535398831" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1626527916894">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626014214311" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626527916894" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/kotlin/ExerciseKotlin168.kt</url>
+          <url>file://$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin168.kt</url>
           <line>27</line>
-          <properties class="kotlin.ExerciseKotlin168">
+          <properties class="kotlin_exercise.ExerciseKotlin168">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlin/ExerciseKotlin168.kt</url>
+          <url>file://$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin168.kt</url>
           <line>28</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlin/ExerciseKotlin645.kt</url>
+          <url>file://$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin645.kt</url>
           <line>14</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlin/ExerciseKotlin645.kt</url>
+          <url>file://$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin645.kt</url>
           <line>16</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlin/ExerciseKotlin645.kt</url>
+          <url>file://$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin645.kt</url>
           <line>17</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlin/ExerciseKotlin645.kt</url>
+          <url>file://$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin645.kt</url>
           <line>22</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlin/ExerciseKotlin645.kt</url>
+          <url>file://$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin645.kt</url>
           <line>20</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
