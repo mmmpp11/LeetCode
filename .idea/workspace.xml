@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dp/code62/Java_62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/code62/Kotlin_62.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/code63/Java_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/code63/Kotlin_63.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise138.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise160.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise1743.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise1818.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise189.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise274.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise278.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise35.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise53.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/Exercise704.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/ExerciseJava168.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/ExerciseJava645.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/audition1002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_exericse/exercise1736.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_exercise/Exercise1818.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_exercise/Exercise274.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_exercise/Exercise53.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin168.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin297.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_exercise/ExerciseKotlin645.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +151,8 @@
       <workItem from="1627906341063" duration="2779000" />
       <workItem from="1628258198094" duration="627000" />
       <workItem from="1629012848530" duration="243000" />
-      <workItem from="1633955158323" duration="2206000" />
+      <workItem from="1633955158323" duration="2969000" />
+      <workItem from="1634040121484" duration="1598000" />
     </task>
     <task id="LOCAL-00001" summary="297. 二叉树的序列化与反序列化">
       <created>1625064870033</created>
@@ -208,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627220506994</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="62. 不同路径">
+      <created>1633957508351</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633957508351</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,21 +221,22 @@
     <MESSAGE value="274. H 指数" />
     <MESSAGE value="剑指 Offer 42. 连续子数组的最大和" />
     <MESSAGE value="1743. 从相邻元素对还原数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="1743. 从相邻元素对还原数组" />
+    <MESSAGE value="62. 不同路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="62. 不同路径" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="591" y="373" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625391042088">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="591" y="373" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1625391042088" />
     <state x="838" y="312" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1626009505820">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="838" y="312" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626009505820" />
-    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1633957436735">
+    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1633957506763">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1633957436735" />
+    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1633957506763" />
+    <state x="0" y="180" key="DiffContextDialog" timestamp="1633957476274">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="180" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1633957476274" />
     <state width="1433" height="295" key="GridCell.Tab.0.bottom" timestamp="1626363799139">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -284,14 +273,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="600" y="237" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1629013100353" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1627220515968">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1633957535792">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1627220515968" />
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1629012849987">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1633957535792" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1634040287081">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1629012849987" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634040287081" />
     <state x="781" y="437" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627911274723">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
