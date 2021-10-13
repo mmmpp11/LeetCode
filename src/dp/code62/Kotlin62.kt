@@ -1,6 +1,6 @@
 package dp.code62
 
-class Kotlin_62 {
+class Kotlin62 {
     fun uniquePaths(m: Int, n: Int): Int {
 
         val array = Array(m){

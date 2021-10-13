@@ -19,7 +19,7 @@ package dp.code63;
  *          则只需在增加一个状态 ： obstacleGrid[i][j] == 1 时 array[i][j] = 0
  */
 
-public class Java_63 {
+public class Java63 {
 
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
 

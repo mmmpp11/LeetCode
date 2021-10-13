@@ -1,6 +1,6 @@
 package dp.code63
 
-class Kotlin_63 {
+class Kotlin63 {
     fun uniquePathsWithObstacles(obstacleGrid: Array<IntArray>): Int {
         val n = obstacleGrid.size
         val m = obstacleGrid[0].size

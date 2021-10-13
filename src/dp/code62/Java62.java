@@ -16,7 +16,7 @@ package dp.code62;
  *     其余情况均为 array[i][j] = array[i][j-1] + array[i-1][j]
  * }
  */
-public class Java_62 {
+public class Java62 {
 
     public int uniquePaths(int m, int n) {
 
