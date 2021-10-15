@@ -1,6 +1,6 @@
-package dp.code65
+package dp.code120
 
-class Kotlin65 {
+class Kotlin120 {
     fun minimumTotal(triangle: List<List<Int>>): Int {
         val m = triangle.size;
         val n = triangle[m-1].size

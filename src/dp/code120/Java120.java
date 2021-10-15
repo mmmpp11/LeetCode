@@ -1,6 +1,5 @@
-package dp.code65;
+package dp.code120;
 
-import java.util.ArrayList;
 import java.util.List;
 
 
@@ -32,7 +31,7 @@ import java.util.List;
  *   最外层斜列只可能时 2 -> 4 -> 7 -> 3
  *   其他点均有两条路径
  *
- *   可以设array(i,j) 为点（i,j）的最小值
+ *   可以设array(i,j) 为到点（i,j）的最小值
  *
  *   由此可得状态方程：
  *   当 i=j=0时 array[i][j] += triangle.get(i).get(j)
@@ -40,7 +39,7 @@ import java.util.List;
  *   当 j == i时 array[i][j] = array[i-1][j-1] + triangle.get(i).get(j)
  *   其余时刻 array[i][j] = Math.min(array[i-1][j],array[i-1][j-1]) + triangle.get(i).get(j)
  */
-public class Java65 {
+public class Java120 {
 
     public int minimumTotal(List<List<Integer>> triangle) {
         int m = triangle.size();
@@ -51,7 +50,7 @@ public class Java65 {
             for (int j = 0; j <= i; j++){
                 if (i == 0 && j ==0){
                     array[i][j] = 0;
-                }else if (j == 0 && i > 0){
+                }else if (j == 0){
                     array[i][j] = array[i-1][j];
                 }else if (j == i){
                     array[i][j] = array[i-1][j-1];
