@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dp/code931/Java931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/code931/Kotlin931.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/code1289/Java1289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/code1289/Kotlin1289.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/code65/Java65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dp/code120/Java120.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dp/code65/Kotlin65.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dp/code120/Kotlin120.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -64,7 +62,7 @@
       <recent name="F:\study\LeetCode\src\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise1818">
+  <component name="RunManager" selected="Application.Java1289">
     <configuration name="Exercise1818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java.Exercise1818" />
       <module name="LeetCode" />
@@ -98,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Java1289" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.code1289.Java1289" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.code1289.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="kotlin.ExerciseKotlin168Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="VM_PARAMETERS" />
@@ -126,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java1289" />
         <item itemvalue="Application.Exercise1818" />
         <item itemvalue="Kotlin.kotlin.ExerciseKotlin645Kt" />
         <item itemvalue="Application.ExerciseJava168" />
@@ -170,7 +182,8 @@
       <workItem from="1634040121484" duration="1947000" />
       <workItem from="1634128653652" duration="1952000" />
       <workItem from="1634213623458" duration="3779000" />
-      <workItem from="1634302631153" duration="2020000" />
+      <workItem from="1634302631153" duration="2058000" />
+      <workItem from="1634355424388" duration="11114000" />
     </task>
     <task id="LOCAL-00001" summary="297. 二叉树的序列化与反序列化">
       <created>1625064870033</created>
@@ -235,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634217358336</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="931. 下降路径最小和">
+      <created>1634304703988</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634304703988</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,49 +284,70 @@
     <MESSAGE value="63. 不同路径 II" />
     <MESSAGE value="64. 最小路径和" />
     <MESSAGE value="120. 三角形最小路径和" />
-    <option name="LAST_COMMIT_MESSAGE" value="120. 三角形最小路径和" />
+    <MESSAGE value="931. 下降路径最小和" />
+    <option name="LAST_COMMIT_MESSAGE" value="931. 下降路径最小和" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser" timestamp="1634361262136">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1634361262136" />
     <state x="838" y="312" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1626009505820">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="838" y="312" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626009505820" />
-    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1634217356649">
+    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1634304702260">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1634217356649" />
+    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1634304702260" />
     <state x="0" y="180" key="DiffContextDialog" timestamp="1634042225775">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="0" y="180" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634042225775" />
-    <state width="1433" height="295" key="GridCell.Tab.0.bottom" timestamp="1626363799139">
+    <state width="1576" height="351" key="GridCell.Tab.0.bottom" timestamp="1634381186978">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1433" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1626363799139" />
-    <state width="1433" height="295" key="GridCell.Tab.0.center" timestamp="1626363799139">
+    <state width="1576" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1634381186978" />
+    <state width="1576" height="351" key="GridCell.Tab.0.center" timestamp="1634381186977">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1433" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1626363799139" />
-    <state width="1433" height="295" key="GridCell.Tab.0.left" timestamp="1626363799139">
+    <state width="1576" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1634381186977" />
+    <state width="1576" height="351" key="GridCell.Tab.0.left" timestamp="1634381186977">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1433" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1626363799139" />
-    <state width="1433" height="295" key="GridCell.Tab.0.right" timestamp="1626363799139">
+    <state width="1576" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1634381186977" />
+    <state width="1576" height="351" key="GridCell.Tab.0.right" timestamp="1634381186978">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1433" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1626363799139" />
+    <state width="1576" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1634381186978" />
+    <state width="1576" height="351" key="GridCell.Tab.1.bottom" timestamp="1634381186978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1576" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1634381186978" />
+    <state width="1576" height="351" key="GridCell.Tab.1.center" timestamp="1634381186978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1576" height="351" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1634381186978" />
+    <state width="1576" height="351" key="GridCell.Tab.1.left" timestamp="1634381186978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1576" height="351" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1634381186978" />
+    <state width="1576" height="351" key="GridCell.Tab.1.right" timestamp="1634381186978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1576" height="351" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1634381186978" />
     <state x="600" y="237" key="NewModule_or_Project.wizard" timestamp="1629013100353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="600" y="237" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1629013100353" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1634217375566">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1634304711139">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1634217375566" />
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1634302630020">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1634304711139" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1634360460909">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634302630020" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634360460909" />
     <state x="781" y="437" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627911274723">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
