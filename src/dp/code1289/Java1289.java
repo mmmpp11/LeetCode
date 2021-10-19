@@ -21,7 +21,7 @@ import java.util.List;
  *  由于grid[i][j]不能由grid[i-1][j]得到，只能由除J列以外的最小值点获得
  *  所以我们需要遍历上一行除J列以外点来找到最小值
  */
-/
+
 public class Java1289 {
     public int minFallingPathSum(int[][] grid) {
 
