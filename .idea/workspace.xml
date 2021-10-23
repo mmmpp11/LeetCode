@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/code189/Kotlin189.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/code217/Java217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/code217/Kotlin217.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +187,8 @@
       <workItem from="1634560074201" duration="3659000" />
       <workItem from="1634646480507" duration="2423000" />
       <workItem from="1634735868101" duration="3663000" />
-      <workItem from="1634823658108" duration="5351000" />
+      <workItem from="1634823658108" duration="5487000" />
+      <workItem from="1634973929893" duration="1019000" />
     </task>
     <task id="LOCAL-00001" summary="297. 二叉树的序列化与反序列化">
       <created>1625064870033</created>
@@ -272,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634652413033</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="189. 旋转数组">
+      <created>1634831323436</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634831323436</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,65 +313,66 @@
     <MESSAGE value="931. 下降路径最小和" />
     <MESSAGE value="1289. 下降路径最小和  II" />
     <MESSAGE value="122. 买卖股票的最佳时机 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="122. 买卖股票的最佳时机 II" />
+    <MESSAGE value="189. 旋转数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="189. 旋转数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser" timestamp="1634361262136">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1634361262136" />
-    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1634652411160">
+    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1634831321812">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1634652411160" />
+    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1634831321812" />
     <state x="0" y="180" key="DiffContextDialog" timestamp="1634042225775">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="0" y="180" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634042225775" />
-    <state width="1576" height="351" key="GridCell.Tab.0.bottom" timestamp="1634827402324">
+    <state width="1200" height="351" key="GridCell.Tab.0.bottom" timestamp="1634831446142">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1634827402324" />
-    <state width="1576" height="351" key="GridCell.Tab.0.center" timestamp="1634827402324">
+    <state width="1200" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1634831446142" />
+    <state width="1200" height="351" key="GridCell.Tab.0.center" timestamp="1634831446142">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1634827402324" />
-    <state width="1576" height="351" key="GridCell.Tab.0.left" timestamp="1634827402324">
+    <state width="1200" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1634831446142" />
+    <state width="1200" height="351" key="GridCell.Tab.0.left" timestamp="1634831446142">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1634827402324" />
-    <state width="1576" height="351" key="GridCell.Tab.0.right" timestamp="1634827402324">
+    <state width="1200" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1634831446142" />
+    <state width="1200" height="351" key="GridCell.Tab.0.right" timestamp="1634831446142">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1634827402324" />
-    <state width="1576" height="351" key="GridCell.Tab.1.bottom" timestamp="1634827402465">
+    <state width="1200" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1634831446142" />
+    <state width="1200" height="351" key="GridCell.Tab.1.bottom" timestamp="1634831446143">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1634827402465" />
-    <state width="1576" height="351" key="GridCell.Tab.1.center" timestamp="1634827402465">
+    <state width="1200" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1634831446143" />
+    <state width="1200" height="351" key="GridCell.Tab.1.center" timestamp="1634831446143">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="351" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1634827402465" />
-    <state width="1576" height="351" key="GridCell.Tab.1.left" timestamp="1634827402464">
+    <state width="1200" height="351" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1634831446143" />
+    <state width="1200" height="351" key="GridCell.Tab.1.left" timestamp="1634831446142">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="351" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1634827402464" />
-    <state width="1576" height="351" key="GridCell.Tab.1.right" timestamp="1634827402465">
+    <state width="1200" height="351" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1634831446142" />
+    <state width="1200" height="351" key="GridCell.Tab.1.right" timestamp="1634831446143">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1576" height="351" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1634827402465" />
+    <state width="1200" height="351" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1634831446143" />
     <state x="600" y="237" key="NewModule_or_Project.wizard" timestamp="1629013100353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="600" y="237" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1629013100353" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1634652423642">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1634831333533">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1634652423642" />
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1634823659665">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1634831333533" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1634973930988">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634823659665" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634973930988" />
     <state x="781" y="437" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627911274723">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
