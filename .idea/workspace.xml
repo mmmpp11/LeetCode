@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/code217/Java217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/code217/Kotlin217.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/code136/Java136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/code136/Kotlin136.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -188,7 +188,8 @@
       <workItem from="1634646480507" duration="2423000" />
       <workItem from="1634735868101" duration="3663000" />
       <workItem from="1634823658108" duration="5487000" />
-      <workItem from="1634973929893" duration="1019000" />
+      <workItem from="1634973929893" duration="1198000" />
+      <workItem from="1635058278876" duration="1765000" />
     </task>
     <task id="LOCAL-00001" summary="297. 二叉树的序列化与反序列化">
       <created>1625064870033</created>
@@ -281,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634831323436</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="217. 存在重复元素">
+      <created>1634975128035</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634975128035</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,17 +322,18 @@
     <MESSAGE value="1289. 下降路径最小和  II" />
     <MESSAGE value="122. 买卖股票的最佳时机 II" />
     <MESSAGE value="189. 旋转数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="189. 旋转数组" />
+    <MESSAGE value="217. 存在重复元素" />
+    <option name="LAST_COMMIT_MESSAGE" value="217. 存在重复元素" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser" timestamp="1634361262136">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1634361262136" />
-    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1634831321812">
+    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1635061713938">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1634831321812" />
+    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1635061713938" />
     <state x="0" y="180" key="DiffContextDialog" timestamp="1634042225775">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -365,14 +374,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="600" y="237" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1629013100353" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1634831333533">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1634975135561">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1634831333533" />
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1634973930988">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1634975135561" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1635060018500">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634973930988" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1635060018500" />
     <state x="781" y="437" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627911274723">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
