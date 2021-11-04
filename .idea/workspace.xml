@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/code242/Java242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/code125/Java125.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +61,13 @@
       <recent name="F:\study\LeetCode\src\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java7">
+  <component name="RunManager" selected="Application.Java125">
     <configuration name="Exercise1818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.Exercise1818" />
+      <option name="MAIN_CLASS_NAME" value="java_exericse.Exercise1818" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.*" />
+          <option name="PATTERN" value="java_exericse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise1818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_exericse.Exercise1818" />
+    <configuration name="Java125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.code125.Java125" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_exericse.*" />
+          <option name="PATTERN" value="string.code125.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java125" />
         <item itemvalue="Application.Java7" />
         <item itemvalue="Application.Java48" />
         <item itemvalue="Kotlin.array.code189.Kotlin189Kt" />
         <item itemvalue="Application.Java1289" />
-        <item itemvalue="Application.Exercise1818" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +204,8 @@
       <workItem from="1635649161224" duration="7645000" />
       <workItem from="1635766976748" duration="4985000" />
       <workItem from="1635855631289" duration="1458000" />
-      <workItem from="1635941520268" duration="991000" />
+      <workItem from="1635941520268" duration="1120000" />
+      <workItem from="1636028620437" duration="3518000" />
     </task>
     <task id="LOCAL-00001" summary="297. 二叉树的序列化与反序列化">
       <created>1625064870033</created>
@@ -367,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635857161598</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="242. 有效的字母异位词">
+      <created>1635942623965</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1635942623965</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,73 +418,78 @@
     <MESSAGE value="48. 旋转图像" />
     <MESSAGE value="7. 整数反转" />
     <MESSAGE value="387. 字符串中的第一个唯一字符" />
-    <option name="LAST_COMMIT_MESSAGE" value="387. 字符串中的第一个唯一字符" />
+    <MESSAGE value="242. 有效的字母异位词" />
+    <option name="LAST_COMMIT_MESSAGE" value="242. 有效的字母异位词" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser" timestamp="1634361262136">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1634361262136" />
-    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1635857159892">
+    <state x="715" y="242" key="#xdebugger.evaluate" timestamp="1636032276222">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1635857159892" />
+    <state x="715" y="242" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1636032276222" />
+    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1635942621813">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1635942621813" />
     <state x="0" y="180" key="DiffContextDialog" timestamp="1634042225775">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="0" y="180" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634042225775" />
-    <state width="1200" height="350" key="GridCell.Tab.0.bottom" timestamp="1635773567353">
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1636032365808">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1635773567353" />
-    <state width="1200" height="350" key="GridCell.Tab.0.center" timestamp="1635773567353">
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1636032365808" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1636032365808">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="350" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1635773567353" />
-    <state width="1200" height="350" key="GridCell.Tab.0.left" timestamp="1635773567353">
+    <state width="1877" height="355" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1636032365808" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1636032365808">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="350" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1635773567353" />
-    <state width="1200" height="350" key="GridCell.Tab.0.right" timestamp="1635773567353">
+    <state width="1877" height="355" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1636032365808" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1636032365808">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="350" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1635773567353" />
-    <state width="1200" height="350" key="GridCell.Tab.1.bottom" timestamp="1635773567353">
+    <state width="1877" height="355" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636032365808" />
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom" timestamp="1636032365920">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1635773567353" />
-    <state width="1200" height="350" key="GridCell.Tab.1.center" timestamp="1635773567353">
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1636032365920" />
+    <state width="1877" height="355" key="GridCell.Tab.1.center" timestamp="1636032365920">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="350" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1635773567353" />
-    <state width="1200" height="350" key="GridCell.Tab.1.left" timestamp="1635773567353">
+    <state width="1877" height="355" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1636032365920" />
+    <state width="1877" height="355" key="GridCell.Tab.1.left" timestamp="1636032365920">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="350" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1635773567353" />
-    <state width="1200" height="350" key="GridCell.Tab.1.right" timestamp="1635773567353">
+    <state width="1877" height="355" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1636032365920" />
+    <state width="1877" height="355" key="GridCell.Tab.1.right" timestamp="1636032365920">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="350" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1635773567353" />
+    <state width="1877" height="355" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636032365920" />
     <state x="600" y="237" key="NewModule_or_Project.wizard" timestamp="1629013100353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="600" y="237" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1629013100353" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1635857171504">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1635942631711">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1635857171504" />
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1635941583813">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1635942631711" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1636028681393">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1635941583813" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636028681393" />
     <state x="781" y="437" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627911274723">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="781" y="437" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1627911274723" />
-    <state x="852" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1634830891336">
+    <state x="852" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1636031112918">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="852" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1634830891336" />
+    <state x="852" y="401" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1636031112918" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -543,6 +556,16 @@
           <url>file://$PROJECT_DIR$/src/string/code7/Java7.java</url>
           <line>42</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/code125/Java125.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string/code125/Java125.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
