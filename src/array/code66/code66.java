@@ -1,4 +1,4 @@
-package array;
+package array.code66;
 
 import java.util.Arrays;
 
