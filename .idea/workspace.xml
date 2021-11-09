@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/code14/Java14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkList/jCode18/Java18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +196,8 @@
       <workItem from="1636118209408" duration="4473000" />
       <workItem from="1636188120870" duration="6952000" />
       <workItem from="1636214627124" duration="2850000" />
-      <workItem from="1636372344926" duration="3285000" />
+      <workItem from="1636372344926" duration="3357000" />
+      <workItem from="1636458068516" duration="2369000" />
     </task>
     <task id="LOCAL-00001" summary="297. 二叉树的序列化与反序列化">
       <created>1625064870033</created>
@@ -394,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636218895326</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="14. 最长公共前缀">
+      <created>1636375699912</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1636375699912</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="剑指 Offer 42. 连续子数组的最大和" />
     <MESSAGE value="1743. 从相邻元素对还原数组" />
     <MESSAGE value="62. 不同路径" />
     <MESSAGE value="63. 不同路径 II" />
@@ -439,7 +446,8 @@
     <MESSAGE value="8. 字符串转换整数 (atoi)" />
     <MESSAGE value="28. 实现 strStr()" />
     <MESSAGE value="38. 外观数列" />
-    <option name="LAST_COMMIT_MESSAGE" value="38. 外观数列" />
+    <MESSAGE value="14. 最长公共前缀" />
+    <option name="LAST_COMMIT_MESSAGE" value="14. 最长公共前缀" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1530" y="448" key="#com.intellij.ide.util.MemberChooser" timestamp="1634361262136">
@@ -454,58 +462,58 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="715" y="242" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1636374626540" />
-    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1636218893672">
+    <state x="732" y="264" key="CommitChangelistDialog2" timestamp="1636375698075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1636218893672" />
+    <state x="732" y="264" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1636375698075" />
     <state x="0" y="180" key="DiffContextDialog" timestamp="1634042225775">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="0" y="180" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1634042225775" />
-    <state width="1200" height="349" key="GridCell.Tab.0.bottom" timestamp="1636375083053">
+    <state width="1200" height="349" key="GridCell.Tab.0.bottom" timestamp="1636375763374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1636375083053" />
-    <state width="1200" height="349" key="GridCell.Tab.0.center" timestamp="1636375083053">
+    <state width="1200" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1636375763374" />
+    <state width="1200" height="349" key="GridCell.Tab.0.center" timestamp="1636375763374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="349" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1636375083053" />
-    <state width="1200" height="349" key="GridCell.Tab.0.left" timestamp="1636375083053">
+    <state width="1200" height="349" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1636375763374" />
+    <state width="1200" height="349" key="GridCell.Tab.0.left" timestamp="1636375763374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="349" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1636375083053" />
-    <state width="1200" height="349" key="GridCell.Tab.0.right" timestamp="1636375083053">
+    <state width="1200" height="349" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1636375763374" />
+    <state width="1200" height="349" key="GridCell.Tab.0.right" timestamp="1636375763374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="349" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636375083053" />
-    <state width="1200" height="349" key="GridCell.Tab.1.bottom" timestamp="1636375083367">
+    <state width="1200" height="349" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636375763374" />
+    <state width="1200" height="349" key="GridCell.Tab.1.bottom" timestamp="1636375763375">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="349" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1636375083367" />
-    <state width="1200" height="349" key="GridCell.Tab.1.center" timestamp="1636375083367">
+    <state width="1200" height="349" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1636375763375" />
+    <state width="1200" height="349" key="GridCell.Tab.1.center" timestamp="1636375763374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="349" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1636375083367" />
-    <state width="1200" height="349" key="GridCell.Tab.1.left" timestamp="1636375083367">
+    <state width="1200" height="349" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1636375763374" />
+    <state width="1200" height="349" key="GridCell.Tab.1.left" timestamp="1636375763374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="349" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1636375083367" />
-    <state width="1200" height="349" key="GridCell.Tab.1.right" timestamp="1636375083367">
+    <state width="1200" height="349" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1636375763374" />
+    <state width="1200" height="349" key="GridCell.Tab.1.right" timestamp="1636375763374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1200" height="349" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636375083367" />
+    <state width="1200" height="349" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1636375763374" />
     <state x="600" y="237" key="NewModule_or_Project.wizard" timestamp="1629013100353">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="600" y="237" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1629013100353" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1636218904114">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1636375711539">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1636218904114" />
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1636372771621">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1636375711539" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1636461239504">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636372771621" />
+    <state x="669" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1636461239504" />
     <state x="781" y="437" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627911274723">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
