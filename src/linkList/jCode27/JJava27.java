@@ -9,7 +9,7 @@ package linkList.jCode27;
  * 解题思路： 可以将前一般进行倒转在与后一半进行对比
  *  需要注意的是：当是奇数个时，要注意去掉后半段的第一个，这是不用对比的
  */
-/
+
 
 public class JJava27 {
 
@@ -64,7 +64,7 @@ public class JJava27 {
     public static void main(String[] args) {
         ListNode a = new ListNode(1);
         ListNode b = new ListNode(2);
-        ListNode b = new ListNode(2);
+        ListNode c = new ListNode(2);
 
         a.next = b;
 
