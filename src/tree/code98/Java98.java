@@ -19,7 +19,8 @@ import tree.code104.Java104;
  *
  * 解题思路：递归。通过题意可知我们要判断字树中所有的节点是否都在（down,up）的范围内。
  * 由此可得出递归函数dfs(TreeNode node,long down,long up)，在左子树时上界是node.val，
- * 在柚子树是下界是node.val
+ * 在柚子树是下界是node.val.需要注意的是由于改题数值卡边界，Integer.MAXVALUE不适用，
+ * 要改成Long.MAXVALUE
  *
  */
 
