@@ -1,7 +1,5 @@
 package array.code88;
 
-import sun.security.util.ArrayUtil;
-
 import java.util.Arrays;
 
 /**
