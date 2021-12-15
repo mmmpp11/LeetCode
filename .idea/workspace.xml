@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="155. 最小栈">
-      <change afterPath="$PROJECT_DIR$/src/array/code169/Java169.java" afterDir="false" />
+    <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="169. 多数元素">
+      <change afterPath="$PROJECT_DIR$/src/array/code240/Java240.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -548,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638883672571</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="169. 多数元素">
+      <created>1639058988309</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1639058988309</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7. 整数反转" />
     <MESSAGE value="387. 字符串中的第一个唯一字符" />
     <MESSAGE value="242. 有效的字母异位词" />
     <MESSAGE value="125. 验证回文串" />
@@ -592,7 +598,8 @@
     <MESSAGE value="198. 打家劫舍" />
     <MESSAGE value="384. 打乱数组" />
     <MESSAGE value="155. 最小栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="155. 最小栈" />
+    <MESSAGE value="169. 多数元素" />
+    <option name="LAST_COMMIT_MESSAGE" value="169. 多数元素" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
