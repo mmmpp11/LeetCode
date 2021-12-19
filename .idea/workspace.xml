@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="240. 搜索二维矩阵 II">
-      <change afterPath="$PROJECT_DIR$/src/string/code125/Kotlin125.kt" afterDir="false" />
+    <list default="true" id="9529a57e-c442-40e5-bec7-3887b4d2487f" name="Default Changelist" comment="125. 验证回文串">
+      <change afterPath="$PROJECT_DIR$/src/array/code997/Java997.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -205,13 +205,6 @@
       <workItem from="1636895990861" duration="559000" />
       <workItem from="1636978897583" duration="5221000" />
       <workItem from="1637068664858" duration="5245000" />
-    </task>
-    <task id="LOCAL-00002" summary="645. 错误的集合">
-      <created>1625399755480</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1625399755480</updated>
     </task>
     <task id="LOCAL-00003" summary="274. H 指数">
       <created>1626014504668</created>
@@ -549,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639574839531</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="125. 验证回文串">
+      <created>1639837746581</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1639837746582</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="242. 有效的字母异位词" />
-    <MESSAGE value="125. 验证回文串" />
     <MESSAGE value="8. 字符串转换整数 (atoi)" />
     <MESSAGE value="28. 实现 strStr()" />
     <MESSAGE value="38. 外观数列" />
@@ -593,7 +592,8 @@
     <MESSAGE value="155. 最小栈" />
     <MESSAGE value="169. 多数元素" />
     <MESSAGE value="240. 搜索二维矩阵 II" />
-    <option name="LAST_COMMIT_MESSAGE" value="240. 搜索二维矩阵 II" />
+    <MESSAGE value="125. 验证回文串" />
+    <option name="LAST_COMMIT_MESSAGE" value="125. 验证回文串" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -638,7 +638,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/string/code125/Kotlin125.kt</url>
-          <line>13</line>
+          <line>10</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
